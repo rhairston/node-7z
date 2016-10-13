@@ -1,7 +1,7 @@
 {
-  "name": "node-7z",
+  "name": "node-7za",
   "version": "0.4.1",
-  "description": "A Node.js wrapper for 7-Zip",
+  "description": "A Node.js wrapper for 7-Zip with 7za",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/quentinrossetti/node-7zip.git"
+    "url": "https://github.com/rhairston/node-7zip.git"
   },
   "keywords": [
     "node",
